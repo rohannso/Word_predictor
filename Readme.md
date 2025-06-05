@@ -29,7 +29,7 @@ This is a Streamlit app that predicts the next word in a sequence using a traine
 You can use a line from Shakespeare's Hamlet to test the app. For example, enter:
 
 ```
-Ham. I humbly thank you Sir, dost know this
+Ham. I humbly thank you Sir, dost know 
 ```
 
 and click "predict next word". The app will predict the next word in the sequence based on the trained model.
